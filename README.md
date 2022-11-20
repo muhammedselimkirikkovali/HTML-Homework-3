@@ -1,2 +1,2 @@
-# HTML-Odev-3
-Kodluyoruz ile HTML Ödev 3
+# HTML-Homework-3
+Kodluyoruz.org HTML Homework 3
